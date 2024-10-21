@@ -16,3 +16,5 @@ toy-people.com
 ir.ximalaya.com
 its.hku.hk
 grandchallenges.springernature.com
+arch.ns.cloudflare.com
+veda.ns.cloudflare.com
