@@ -12,7 +12,6 @@ toy-people.com
 172.67.158.37
 ir.ximalaya.com
 its.hku.hk
-grandchallenges.springernature.com
+learning.hk.chinamobile.com
 arch.ns.cloudflare.com
 veda.ns.cloudflare.com
-freeyx.cloudflare88.eu.org
