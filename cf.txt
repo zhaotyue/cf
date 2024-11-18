@@ -16,4 +16,3 @@ grandchallenges.springernature.com
 arch.ns.cloudflare.com
 veda.ns.cloudflare.com
 freeyx.cloudflare88.eu.org
-*.cloudflare.182682.xyz
