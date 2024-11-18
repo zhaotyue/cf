@@ -11,7 +11,6 @@ visa.cn
 toy-people.com
 172.67.158.37
 its.hku.hk
-learning.hk.chinamobile.com
 gift.jiathis.com
 arch.ns.cloudflare.com
 veda.ns.cloudflare.com
