@@ -1,9 +1,6 @@
-cdn.cf.clun.top
 cdn.kaiche.tk
 singapore.com
 comicabc.com
-cloudflare.cfgo.cc
-cloudflare.cfgo.cc
 www.hugedomains.com
 www.k77kk.cc
 russia.com
@@ -18,3 +15,6 @@ its.hku.hk
 grandchallenges.springernature.com
 arch.ns.cloudflare.com
 veda.ns.cloudflare.com
+speed.marisalnc.com
+freeyx.cloudflare88.eu.org
+*.cloudflare.182682.xyz
